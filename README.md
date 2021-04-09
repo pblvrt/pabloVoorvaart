@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**pabloVoorvaart/pabloVoorvaart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Sofware Engineer
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖤 Working at [Shamaon.com](https://shamaon.com);
+- 💜 Intrested in the decentralized future
+- 💚 Into the serverless stack
+- 💙 ReactJS / NextJS / GraphQL
+
+##### Projects I follow and support
+
+- [NGINX RTMP module]()
+- [livepeer.org]()
+- [AWS Amplify]()
+- [Serverless Framework]()
+
