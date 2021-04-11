@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Sofware Engineer
+#### I'm a Sofware && Video streaming engineer
 
 ##### NOW
 
@@ -11,8 +11,13 @@
 
 ##### Projects I follow and support
 
-- [NGINX RTMP module]()
-- [livepeer.org]()
-- [AWS Amplify]()
-- [Serverless Framework]()
+- [NGINX RTMP module](https://github.com/arut/nginx-rtmp-module)
+- [livepeer.org](https://livepeer.org/)
+- [AWS Amplify](https://github.com/aws-amplify/amplify-js)
+- [Serverless Framework](https://github.com/serverless/serverless)
+- [Nextcloud](https://github.com/nextcloud/server)
 
+
+##### Side projects
+
+- Currently hosting a livepeer orchestrator
