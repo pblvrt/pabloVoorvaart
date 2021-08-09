@@ -9,6 +9,9 @@
 - 💚 Into the serverless stack
 - 💙 ReactJS / NextJS / GraphQL
 
+##### PREVIOUSLY
+- 🖤 Video / software engineer at [shamaon.com](https://shamaon.com);
+
 ##### Projects I follow and support
 
 - [NGINX RTMP module](https://github.com/arut/nginx-rtmp-module)
