@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- 🖤 Working at [Shamaon.com](https://shamaon.com);
+- 🖤 Lead dev at [sunhero.com](https://sunhero.com);
 - 💜 Intrested in the decentralized future
 - 💚 Into the serverless stack
 - 💙 ReactJS / NextJS / GraphQL
