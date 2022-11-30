@@ -4,22 +4,23 @@
 
 ##### NOW
 
-- 🖤 Lead dev at [sunhero.com](https://sunhero.com);
 - 💜 Intrested in the decentralized future
-- 💚 Into the serverless stack
-- 💙 ReactJS / NextJS / GraphQL
+- 💙 Mantaining [streamETH](https://streameth.org)
+- 💚 Developing [Live NFTs](https://github.com/NFTsTv)
 
 ##### PREVIOUSLY
-- 🖤 Video / software engineer at [shamaon.com](https://shamaon.com);
 
+- 🖤 Video / software engineer at [graficadirecta.com](https://graficadirecta.com);
+- 🖤 Lead dev at [sunhero.com](https://sunhero.com);
+ 
 ##### Projects I follow and support
 
 - [NGINX RTMP module](https://github.com/arut/nginx-rtmp-module)
 - [livepeer.org](https://livepeer.org/)
 - [AWS Amplify](https://github.com/aws-amplify/amplify-js)
-- [Serverless Framework](https://github.com/serverless/serverless)
+- [Swarm](https://www.ethswarm.org/)
 - [Nextcloud](https://github.com/nextcloud/server)
-
+- [Mist media server](https://mistserver.org/)
 
 ##### Side projects
 
