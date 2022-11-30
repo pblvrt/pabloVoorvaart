@@ -7,6 +7,7 @@
 - 💜 Intrested in the decentralized future
 - 💙 Mantaining [streamETH](https://streameth.org)
 - 💚 Developing [Live NFTs](https://github.com/NFTsTv)
+- 💛 Doing video production at [shamaon.com](https://shamaon.com/)
 
 ##### PREVIOUSLY
 
