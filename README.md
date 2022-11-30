@@ -10,8 +10,8 @@
 
 ##### PREVIOUSLY
 
-- 🖤 Video / software engineer at [graficadirecta.com](https://graficadirecta.com);
-- 🖤 Lead dev at [sunhero.com](https://sunhero.com);
+- 🖤 Video / software engineer at [graficadirecta.com](https://graficadirecta.com)
+- 🖤 Lead dev at [sunhero.com](https://sunhero.com)
  
 ##### Projects I follow and support
 
